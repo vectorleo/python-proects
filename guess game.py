@@ -18,6 +18,8 @@ game_rules = """
 you have 3 chances and 5 question
 Good luck!
 """
+#added ai function
+var = 'example'
 
 game_questions = None
 print(game_prompt)
